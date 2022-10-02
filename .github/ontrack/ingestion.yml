@@ -1,4 +1,0 @@
-promotions:
-  - name: GOLD
-    validations:
-      - build-asciidoctor-ghpages

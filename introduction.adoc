@@ -1,8 +1,0 @@
-[[introduction]]
-== Introduction
-
-Congratulations in having an Ontrack instance! This guide will get you through all the steps you need to fully take advantage of the capabilities of Ontrack:
-
-* setup of your instance
-* starting to collect data from your CI/CD ecosystem
-* displaying data & insights
