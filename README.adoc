@@ -12,3 +12,5 @@
 include::introduction.adoc[]
 
 include::setup.adoc[]
+
+include::support.adoc[]

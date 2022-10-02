@@ -1,0 +1,11 @@
+[[support]]
+== Support
+
+Support is only available as a supplementary package to your instance. If you buy some support, the support is valid for all the instances you have bought.
+
+[[support-contact]]
+=== How to contact the support
+
+* email: `ontrack@nemerosa.com`
+* TBD: Slack
+* TBD: Tickets
